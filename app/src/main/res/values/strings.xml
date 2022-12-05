@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Primeiro Cliente</string>
+    <string name="titulo1">Este foi um teste</string>
+    <string name="paragrafo">Para um curso da Udemy onde deveríamos fazer um app com splash screen para um pseudo-cliente</string>
+</resources>
